@@ -6,13 +6,13 @@ A fully responsive Invoice Management Application built with React, allowing use
 ---
 # 🚀 Live Demo
 
-[My Live Demo Will Be here]
+https://invoice-hng-2.vercel.app/
 
 ---
 
 # 📦 GitHub Repository
 
-[This is My repo link here]
+https://github.com/OsagieIsreal/Invoice_HNG_2.git
 
 ---
 
